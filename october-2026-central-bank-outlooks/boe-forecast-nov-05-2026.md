@@ -61,6 +61,17 @@ Sealed 2026-10-29 20:40 UTC from evidence cut off at 20:00 UTC, before the Londo
   near-certainty and press-weighting issues.
 - One of the three stories behind the tighten read is conditional on energy prices staying high. The model counts it as a plain hike
   call; treating the condition as evidence of its own is open work.
+- **Where the flip comes from.** The committee read (nine voters weighted by their vote histories, led by Bailey, Mann and
+  Ramsden) is **hold at 65.2%**, close to the T-14. The whole move to tighten comes from one stage: the press consensus for a
+  tighten, applied as a measured likelihood ratio of 28. The result will be scored against both parts, so it shows which one was right.
+- **Why this decision is a test.** The same mechanism misled the FOMC forecast in October: at T-4 a press ratio of 24 drove it to
+  tighten (82.5%), and the Fed held. That consensus turned out to be misread, because the stories were not about that meeting. Once the
+  model read the press only for the meeting at hand, the hike call fell away. Here the press read is restricted to the November
+  meeting, and it rests on a poll of 63 economists.
+  - If the Bank hikes, it is the first out-of-sample evidence that the press term adds signal over the committee read.
+  - If it holds, the committee read was right and the press term overrode it, and the press weighting is the defect.
+
+  Either way, a correct call here means the model read the consensus correctly, not that it knew more than the consensus.
 - **Correction (2026-10-29):** this note first gave the T-7 cutoff as 2026-10-28. T-7 for a 5 November decision is 29 October, the date
   the seal was actually made; the cutoff and the date in the notes above are corrected.
 
